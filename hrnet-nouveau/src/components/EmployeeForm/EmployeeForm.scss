@@ -1,0 +1,55 @@
+@import "../../style/variable.scss";
+
+#create-employee {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  padding: 0 10px;
+  background-color: white;
+  border-radius: 5px;
+  width: 250px;
+  text-align: center;
+
+  & .address {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+  }
+
+  & label {
+    margin: 10px;
+  }
+
+  & .button {
+    background-color: $buttonColor;
+    border-radius: 5px;
+    margin: 10px;
+    border: none;
+    padding: 5px;
+    color: white;
+    &:hover {
+      cursor: pointer;
+      background-color: $buttonColorHover;
+    }
+  }
+  & .select_date {
+    margin: 10px 0 0 0;
+    & input {
+      margin: 10px;
+    }
+  }
+  & .select_states {
+    margin: 10px 0 0 0;
+    & select {
+      margin: 10px 0 0 0;
+      height: 20px;
+      width: 100%;
+    }
+  }
+  & select {
+    width: 170px;
+    height: 20px;
+  }
+}

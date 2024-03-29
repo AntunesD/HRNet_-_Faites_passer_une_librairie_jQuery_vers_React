@@ -1,0 +1,27 @@
+.EmployeeList {
+    &_content {
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        padding: 0 10px;
+        background-color: white;
+        border-radius: 5px;
+        text-align: center;
+        position: relative;
+        width:90%;
+      }
+}
+
+.employee-filter {
+position: absolute;
+top: 30px;
+right: 5px;
+}
+
+.pagination {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
