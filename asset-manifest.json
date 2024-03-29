@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HRNet_-_Faites_passer_une_librairie_jQuery_vers_React/tree/master/hrnet-nouveau/static/css/main.216a65d8.css",
+    "main.js": "/HRNet_-_Faites_passer_une_librairie_jQuery_vers_React/tree/master/hrnet-nouveau/static/js/main.c459b7e9.js",
+    "static/media/logo.png": "/HRNet_-_Faites_passer_une_librairie_jQuery_vers_React/tree/master/hrnet-nouveau/static/media/logo.d376443d8e7c52c67dc8.png",
+    "index.html": "/HRNet_-_Faites_passer_une_librairie_jQuery_vers_React/tree/master/hrnet-nouveau/index.html",
+    "main.216a65d8.css.map": "/HRNet_-_Faites_passer_une_librairie_jQuery_vers_React/tree/master/hrnet-nouveau/static/css/main.216a65d8.css.map",
+    "main.c459b7e9.js.map": "/HRNet_-_Faites_passer_une_librairie_jQuery_vers_React/tree/master/hrnet-nouveau/static/js/main.c459b7e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.216a65d8.css",
+    "static/js/main.c459b7e9.js"
+  ]
+}
